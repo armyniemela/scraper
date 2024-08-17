@@ -1,3 +1,3 @@
 # scraper
 
-skreippaa otsikot linkillä Nasdaq Nordicin verkkosivuilta joka päivä klo 4 aamulla.
+skreippaa otsikot linkillä Talouselämän verkkosivuilta joka päivä tasatunnein.
